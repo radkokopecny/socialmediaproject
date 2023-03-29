@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Simple Social Media Project
+
+This is simple social media project made in React with help of Typescript and Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
